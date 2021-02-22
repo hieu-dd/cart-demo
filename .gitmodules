@@ -1,0 +1,6 @@
+[submodule "buildSrc-android"]
+	path = buildSrc
+	url = https://git.teko.vn/sale-channels/mobile-lab/terra-platform/buildSrc-android.git
+[submodule "terra-core-android"]
+	path = terra
+	url = https://git.teko.vn/sale-channels/mobile-lab/terra-platform/terra-core-android.git
