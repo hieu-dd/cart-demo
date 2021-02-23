@@ -70,7 +70,9 @@ dependencies {
             )
         )
     )
-    implementation(project(":apollo:apollo"))
+
+    implementation(project(":cart:cart-ui"))
+//    implementation(project(":apollo:apollo"))
 
     if (BuildAndroidConfig.USE_PREBUILT_LIBRARIES) {
         api(TekoDependencies.TERRA_CORE_ANDROID)

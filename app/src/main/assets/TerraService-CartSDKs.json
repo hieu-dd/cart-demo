@@ -1,0 +1,30 @@
+{
+  "terraClientID": "demosuperapp:android:playstore:0.0.1",
+  "terraEnvironment": "dev",
+  "defaultConfig": {
+    "@type": "type.googleapis.com/terra.v1.Pandora",
+    "config": "wPuus0CoK17pLlchyYTVXuEqQ/YnXTzUIjkhQ4dcYisNlEnEXa4GXaTZzAh4cXBygb5dtyGE3n6CFq171zrr2Fo6NqaWSIWmt6PjvE3inxOHswBnVs06jVzyVpXmvxw=",
+    "services": [
+      {
+        "name": "Tracker",
+        "code": "tracker",
+        "config": "0D/6RLz9AcNI4DUjh2jnIJpIb95YnQoBDNM4Ktjsc6dFeKG2iwn9NSi59VuwG8i/kk99LormczfGHTldaRTcPoGVs9uc+kSW9KSAmbL3Nqor05f1NdOnRSgWQ76V3jfUvJ8kNmyZZxcAsz9J65vx4TsQJMIW7dxYzqklmZlXSmpebBonM6ovKXi3nxxiI3/YA+eRsfKqO8s8vm3J6OxEZgNj9kaAsmWY4nGlCRU/51drpOpx7Yd805FhIG3SwQ4F"
+      },
+      {
+        "name": "IAM",
+        "code": "iam",
+        "config": "lCjXANAlEBnN1lkDbd58Q90KZi6cc0oq4gzcH3jJIDA0nVUnOai+6ClNR0Hr0QJBtjLjnInKyvouiBkkEsV9bQuSXl0Aq7h0udTDq6Z96JLSva2501i2aRhTi+lWrU8FvQQ+SX2V8EOForqxDK6KaxWWwGEJebLmd6DeGwnV6J4OnZLIrjaODF9Ej62UyznJwbitER3pG+h69gIW0YBG4vdxIuAIDIMCwEvVlZDfaHGBcZbPHnoGwuS33su00ZkSn5Er13XK3V56SDoNJ+3bFGmPFCc4I4Y4dEnSVpbvSyMdZXVUBqPsISSWdRGdENE5AjtcxmgT+fGm5oPL7mCoLqBFBG1GXHv7xcgxhng9xLUELNUg4nXauovlblyHGh82qIZNbSwI8+Rt4ARpa2/l57UctiKE3aUFd5vF05KLSgBxfgIdYYI9zt1lq3ikekc6WvaccOP+EtcWkuD3NMzZ/kOIsrw3pTQi/fHRmKuUaIilYQb4Kfj40BIMD30gWcwzH4Znht2vahBaYlOXcKlHsRxpEHpB088xUtWYtV7oEeq87pPQ5VMhZFIqZXm/r0ufm/E1j8uv9yjQfLLmimG0kFsVbYabc3jaVLMzeT1QZxWjVf3ThxtTG6vlwG25R132h024adG5qcfXIOTEBjtbcrCpUc2irChllj52LYeWDqTkxDFClgjDECYeFjzleCApPKYf3c0clbWBuqCnl6i4BnC5FYMv2Kj5wfI7YUs9fy6gP6Wvsu9m/LNggCQ5BdeHE9HszctirIm0Znw/oYjY3e8="
+      },
+      {
+        "name": "Discovery",
+        "code": "discovery",
+        "config": "c4QnSn38k5uUljZ0gGM7ubTj0JJ2W34/cVGRQ3iLPY2q6KdFFQb2iCSywax4CKwutwDf+Wx+KBeLu4UxFKqkaJbIHk8C8SkY+U5I2Tlg7dv+2EboolEgakQDJytp9ef3lYoIJ65SBqe2Ogc1fovkPT34mV/kkQvtzzH42d7UWVcNmwdt8W9zKmE="
+      },
+      {
+        "name": "Cart",
+        "code": "cart",
+        "config": "aE2akf44RRtZErsWcLeIrnsOwGKPwOBOlsbqUPjF1SOikFyWn1xydVAU3pnDied6DKsz+yUDUv+YzY9ifZgZYfaj3sjlPdnnckveOq+kLIVUB6WtRNEAhLHdLHnHBronkdTQFtczmvA5bxBek6f/s1SYi6wyWE9tu6+nrYiq"
+      }
+    ]
+  }
+}
